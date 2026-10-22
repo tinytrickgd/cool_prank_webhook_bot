@@ -1,0 +1,33 @@
+{
+    "webhooks": {
+        "1": {
+            "name": "BoltBot in CPA",
+            "url": "https://discord.com/api/webhooks/1562571379994267802/x77GOfRjPmpzrukg3aGq8QX5iAnxRgqTjBfO0NDS3wYiOhKG1HdNAJqiRrpGARbtmBcO"
+        },
+        "2": {
+            "name": "Giveaway Bot in Tiny TCD (Mods Only)",
+            "url": "https://discord.com/api/webhooks/1562580894978670696/nKWCyor-NMfPt1b6UUMTweZzMgrUQFb-inN3W7jo1agu5Vmm6hi0CLrfo9wshvUBKuT-"
+        },
+        "3": {
+            "name": "Quran Bot in Elements Server",
+            "url": "https://discord.com/api/webhooks/1562581386337198242/UADvEEasAyhPO7nH4PeqcpxrGNoQg_GQ8921hNI65by_Enm11SslOrbHQHfdzE8zW_l3"
+        }
+    },
+    "profiles": {
+        "1": {
+            "name": "weewee bush",
+            "avatar": "",
+            "status": ""
+        },
+        "2": {
+            "name": "THE RATTIKANS",
+            "avatar": "https://cdn.discordapp.com/attachments/1554598882758107138/1562601995552952351/image.png?ex=6ada9603&is=6ad94483&hm=d88c9f3a7562ce86e48a33cad248a84c613da7af5df6b5370b8101dec099a2d0",
+            "status": ""
+        },
+        "": {
+            "name": "Entity ",
+            "avatar": "",
+            "status": ""
+        }
+    }
+}
